@@ -1,13 +1,11 @@
 # NeonWings: Firewall Dive / 霓虹之翼：防火墙潜行
 
-![alt text](image.png)
-
 A high-score chasing game soaring through 3D space.  
 **难度随分数动态提升，但积分翻倍！**  
 Will you become a legend... or just coast along?  
 **是成为传奇，还是混吃等死？由你决定！**
 ---
-## 🌐 Play Now / 立即游玩
+## 🌐 [Play Now / 立即游玩](https://askme765cs.github.io/neonwings/)
 ➡️   
 *(无需下载，点击即玩)*
 *(No need to download,click to run)*
@@ -49,3 +47,4 @@ Will you become a legend... or just coast along?
 **难度升高时，用冲刺穿越狭窄缝隙**  
 ---
 
+![alt text](image.png)
